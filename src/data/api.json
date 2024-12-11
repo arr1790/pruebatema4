@@ -23,6 +23,12 @@
       "localidad": "Montilla",
       "fecha_nacimiento": "2024-12-13",
       "id": "f213"
+    },
+    {
+      "id": "794c",
+      "nombre": "aaa",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2024-12-12"
     }
   ],
   "medicos": [
@@ -55,6 +61,24 @@
       "especialidad": "Enfermero",
       "perfil": "residente",
       "id": "2d52"
+    },
+    {
+      "id": "6e7d",
+      "nombre": "Ana Ruano Ruiz",
+      "especialidad": "dentista",
+      "perfil": "Especialista"
+    },
+    {
+      "id": "39b4",
+      "nombre": "Jose",
+      "especialidad": "dermatologo",
+      "perfil": "Especialista"
+    },
+    {
+      "id": "f052",
+      "nombre": "Ana Ruano Ruiz",
+      "especialidad": "traumatologo",
+      "perfil": "Residente"
     }
   ]
 }

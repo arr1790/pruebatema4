@@ -1,6 +1,7 @@
 import connection from "@/lib/mysql";
 import { revalidatePath } from "next/cache";
 import Link from "next/link";
+import SubmitButton from "@/components/submit-button";
 
 
 
@@ -49,10 +50,10 @@ async function PaginaPacientes() {
                             className="mt-1 block w-full p-2 border border-gray-300 rounded-md focus:ring-blue-500 focus:border-blue-500" />
                     </div>
                     <div>
-                        <button 
+                        <SubmitButton
                             className="w-full bg-blue-500 text-white font-medium py-2 px-4 rounded-md hover:bg-blue-600 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
                             Insertar
-                        </button>
+                        </SubmitButton>
                     </div>
                 </form>
             </div>

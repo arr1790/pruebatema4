@@ -2,6 +2,7 @@ import connection from "@/lib/mysql";
 import { revalidatePath } from "next/cache";
 import Link from "next/link";
 export const dynamic = 'force-dynamic'
+import SubmitButton from "@/components/submit-button";
 
 
 async function eliminarMedicos(formData) {
@@ -69,10 +70,10 @@ async function PaginaMedicos() {
                         </select>
                     </div>
                     <div>
-                        <button
+                        <SubmitButton
                             className="w-full bg-blue-500 text-white font-medium py-2 px-4 rounded-md hover:bg-blue-600 focus:ring-2 focus:ring-blue-500 focus:ring-offset-2">
                             Insertar
-                        </button>
+                        </SubmitButton>
                     </div>
                 </form>
             </div>
