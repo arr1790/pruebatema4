@@ -5,23 +5,19 @@
       "nombre": "Juan Pérez",
       "localidad": "sevilla",
       "fecha_nacimiento": "2000-05-17"
-      
     },
     {
       "id": "2",
       "nombre": "María López",
       "localidad": "Cordoba",
       "fecha_nacimiento": "2000-04-18"
-      
     },
     {
       "id": "3",
       "nombre": "Carlos Gómez",
       "localidad": "lucena",
       "fecha_nacimiento": "2001-11-10"
-     
     }
-    
   ],
   "medicos": [
     {
@@ -29,7 +25,6 @@
       "nombre": "ana",
       "especialidad": "traumatologo",
       "perfil": "residente"
-      
     },
     {
       "id": "2",
@@ -42,8 +37,6 @@
       "nombre": "jesus",
       "especialidad": "cirujano",
       "perfil": "especialista"
-     
     }
-    
   ]
 }
