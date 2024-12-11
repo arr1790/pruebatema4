@@ -17,6 +17,12 @@
       "nombre": "Carlos Gómez",
       "localidad": "lucena",
       "fecha_nacimiento": "2001-11-10"
+    },
+    {
+      "nombre": "Yolanda",
+      "localidad": "Montilla",
+      "fecha_nacimiento": "2024-12-13",
+      "id": "f213"
     }
   ],
   "medicos": [
@@ -43,6 +49,12 @@
       "nombre": "pedro",
       "especialidad": "traumatologo",
       "perfil": "Residente"
+    },
+    {
+      "nombre": "David",
+      "especialidad": "Enfermero",
+      "perfil": "residente",
+      "id": "2d52"
     }
   ]
 }
