@@ -37,6 +37,12 @@
       "nombre": "jesus",
       "especialidad": "cirujano",
       "perfil": "especialista"
+    },
+    {
+      "id": "aa73",
+      "nombre": "pedro",
+      "especialidad": "traumatologo",
+      "perfil": "Residente"
     }
   ]
 }
